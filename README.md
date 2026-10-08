@@ -1,6 +1,6 @@
 # SHA-256: structure and reduced-round models
 
-Project page: [Beedbyte](https://beedbyte.tech/projects/sha-256)
+Project page: [Beedbyte](https://beedbyte.tech/research/sha-256)
 
 ## English
 
